@@ -1,11 +1,11 @@
-# Project 1 Spec.
+# LockIn Mobile Application.
 
 # LockIn
 
 > One line: Distraction is right in the palm of our hands, and it's our own phones.
 > 
 
-**Author:** [Alexa Montilla] · **Course:** CMP 464/343 Product 1 · **Last updated:** [10/4/2026]
+**Author:** [Alexa Montilla] · **Course:** CMP 464/343 Product 1 · **Last updated:** [10/21/2026]
 
 ---
 
@@ -13,15 +13,14 @@
 
 *I am a full-time college student and work as a part-time STEM instructor for an after-school program.*
 
-[Your answer]
+**Real, recent moments for what went wrong, what it cost, and what did i do**
 
-**The last 3 times this happened:***Real, recent moments. For each: when and where, what went wrong, what it cost, what you did.*
 
 1. Home, kitchen table as a study table (no dedicated study space, close to the living room). Reviewing math notes, a 10-15 minute break became an hour, cutting into time for other coursework.
 2. Tuesdays, the longest work day with barely any breaks. Starts studying tired, uses the phone as relief, and the distraction spirals. No missed deadlines, but loses organization time and ends up cramming at minute, which turns studying into a hardship.
-3. 
 
-**What it costs me:***Be specific. How often, how much?*
+
+**What it costs me:**
 
 - ⏱️ Time:  A simple 10-15 minute break sometimes extends to an hour or so, maybe on 3-4 a day a week when I am studying something important. It is roughly 3-4 hours of lost study time
 - 💸 Money: N/A
@@ -34,7 +33,7 @@
 
 **Gut check:**
 
-> I need a way to take bounded breaks while studying hard courses such as my  math courses, because a 10 minute break regularly turns into an hour on 3-4 days a week. This is worst at my kitchen table, my only study space, and when I start tired after long work days. My phone is the source of the distraction, not any single app, my blocker covers some apps but I switch to others. I end up stressed, behind on coursework, and feeling worse than before the break.
+> I need a way to take bounded breaks while studying hard courses such as my math courses, because a 10 minute break regularly turns into an hour on 3-4 days a week. This is worst at my kitchen table, my only study space, and when I start tired after long work days. My phone is the source of the distraction, not any single app, my blocker covers some apps but I switch to others. I end up stressed, behind on coursework, and feeling worse than before the break.
 > 
 
 **Five Whys:**
@@ -55,8 +54,6 @@
 
 **I'll know this is solved when:** I limit my phone usage to keep my study breaks consistently close to their planned length. Meaning, no more jumping from Instagram to YouTube once when time runs out. 
 
-*Check: none of these words appear: app, website, platform, dashboard, tool, AI, track, automate, notify, feature.*
-
 ---
 
 ## 3. Existing Solutions
@@ -69,15 +66,13 @@
 | Library | Environment is quiet and free from distractions | Works well when I’m there, but travel time and schedule limit it to about 2 days a week |
 |  |  |  |
 
-**The gap:** *In one sentence, what's still missing for me?*
+**The gap:** 
 
 Nothing intervenes at the actual moment a break should end, so every fix depends on willpower I don't reliably have on my hardest, most drained days.
 
 ---
 
 ## 4. Features & Benefits
-
-*Every feature should move me toward my "solved when" line.*
 
 | Feature (what it does) | Benefit (how my life gets better) | MVP or Later? |
 | --- | --- | --- |
@@ -103,7 +98,7 @@ Nothing intervenes at the actual moment a break should end, so every fix depends
 ### Front end
 
 - **Surface:** Mobile
-- **Tools:** Kotlin, Java
+- **Tools:** Xcode(Swift), Java
 - **Why:** The phone is where you spend the most time and where the distraction actually happens, so the fix needs to live there, not on a device you're not already holding
 
 ### Back end
