@@ -105,16 +105,16 @@ Nothing intervenes at the actual moment a break should end, so every fix depends
 
 | Piece | Choice | Why |
 | --- | --- | --- |
-| Server / API | Ktor (Kotlin) or Node.js | Let’s me reuse the domain models directly across mobile and backend |
-| Data storage | JSON file |  |
-| Outside services (optional) | Google Calendar API (Maybe) |  |
-| Hosting / deploy | Render |  |
+| Server / API | Undecided | Let’s me reuse the domain models directly across mobile and backend |
+| Data storage | Undecided |  |
+| Outside services (optional) | Undecided |  |
+| Hosting / deploy | Undecided |  |
 
 ### Architecture sketch
 
 ```mermaid
 flowchart LR
-  U["Me"] --> FE["Front end: ..."]
+  U["Me (User)"] --> FE["Front end: ..."]
   FE --> API["Back end / API: ..."]
   API --> DB[("Data: ...")]
 ```
