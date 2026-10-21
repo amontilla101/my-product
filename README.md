@@ -1,6 +1,6 @@
-# LockIn Mobile Application.
+# LockIn Mobile Application
 
-# LockIn
+# LockIn App
 
 > One line: Distraction is right in the palm of our hands, and it's our own phones.
 > 
