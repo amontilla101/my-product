@@ -114,7 +114,7 @@ Nothing intervenes at the actual moment a break should end, so every fix depends
 
 ```mermaid
 flowchart LR
-  U["Me (User)"] --> FE["Front end: ..."]
+  U["Me (User)"] --> FE["Front end: SwiftUI(iOS App) / FamilyControls & ManagedSettings"]
   FE --> API["Back end / API: ..."]
   API --> DB[("Data: ...")]
 ```
