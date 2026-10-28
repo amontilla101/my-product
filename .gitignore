@@ -1,0 +1,13 @@
+# Xcode & macOS build files
+.DS_Store
+DerivedData/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Java / Spring Boot (for when you add the backend)
+target/
+.gradle/
+build/
+.settings/
+.classpath
+.project
