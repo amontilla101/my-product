@@ -106,7 +106,7 @@ Nothing intervenes at the actual moment a break should end, so every fix depends
 | Piece | Choice | Why |
 | --- | --- | --- |
 | Server / API | Spring Boot (Java) | To provide a clear and structured API that pairs cleanly w/ iOS users |
-| Data storage | Undecided |  |
+| Data storage | UserDefaults |  |
 | Outside services (optional) | Apple's native framework (FamilyControls & ManagedSettings) | This lands directly on iOS user side for system restrictions |
 | Hosting / deploy | Undecided |  |
 
