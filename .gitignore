@@ -4,7 +4,7 @@ DerivedData/
 *.xcodeproj/project.xcworkspace/
 *.xcodeproj/xcuserdata/
 
-# Java / Spring Boot (for when you add the backend)
+# Java / Spring Boot (LATER)
 target/
 .gradle/
 build/
